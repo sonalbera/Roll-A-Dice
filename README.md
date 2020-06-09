@@ -2,4 +2,4 @@
 
 A mobile based dice roller application. Created using Kotlin.
 
-![](images/Screenshot(88).jpg)
+<img src="Screenshot (88).png">
