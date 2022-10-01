@@ -1,2 +1,2 @@
-Roll the Dice - an Android App
+Roll a Dice - an Android App
 
