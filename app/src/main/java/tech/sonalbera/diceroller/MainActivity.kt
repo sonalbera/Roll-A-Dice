@@ -8,6 +8,7 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.random.Random
 
+
 class MainActivity : AppCompatActivity() {
     lateinit var diceImage: ImageView
     override fun onCreate(savedInstanceState: Bundle?) {
